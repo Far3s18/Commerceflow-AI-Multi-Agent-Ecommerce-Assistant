@@ -1,0 +1,28 @@
+[project]
+name = "ecom-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chainlit>=2.11.1",
+    "fastapi>=0.136.1",
+    "langchain-classic>=1.0.4",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.3.2",
+    "langchain-ollama>=1.1.0",
+    "langgraph>=1.1.10",
+    "ollama>=0.6.2",
+    "pydantic>=2.13.3",
+    "pydantic-settings>=2.14.0",
+    "python-multipart>=0.0.27",
+    "qdrant-client>=1.17.1",
+    "uvicorn>=0.46.0",
+]
+
+[dependency-groups]
+dev = [
+    "black>=26.3.1",
+    "pytest>=9.0.3",
+    "ruff>=0.15.12",
+]

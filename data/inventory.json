@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "name": "Astra X1 Wireless Headphones",
+        "category": "Electronics",
+        "quantity": 120,
+        "price": 79.99,
+        "description": "Premium wireless headphones built for long listening sessions, clear calls, and daily portability. The Astra X1 combines balanced audio, active noise reduction, cushioned ear pads, and a lightweight frame. It is designed for commuting, work, study, and travel, with reliable battery life and fast pairing across modern devices."
+    },
+    {
+        "id": 2,
+        "name": "Nova Pro Mechanical Keyboard",
+        "category": "Electronics",
+        "quantity": 80,
+        "price": 129.5,
+        "description": "A compact mechanical keyboard made for typing speed, comfort, and durability. The Nova Pro includes hot-swappable switches, per-key lighting, a solid aluminum top plate, and a stable layout that suits both gaming and professional work. It is engineered for users who want a premium tactile experience and a long service life."
+    },
+    {
+        "id": 3,
+        "name": "Pulse 4K Action Camera",
+        "category": "Electronics",
+        "quantity": 65,
+        "price": 199.0,
+        "description": "A rugged action camera for outdoor recording, sports clips, and travel footage. Pulse records detailed 4K video, offers image stabilization, and includes a waterproof body suitable for harsh environments. It is aimed at creators who need a compact camera that can handle movement, vibration, and variable weather."
+    },
+    {
+        "id": 4,
+        "name": "Orbit Smart Watch S2",
+        "category": "Electronics",
+        "quantity": 150,
+        "price": 149.99,
+        "description": "A modern smartwatch focused on health tracking, notifications, and daily productivity. Orbit S2 provides heart rate monitoring, sleep insights, workout modes, and smart alerts in a clean interface. Its battery efficiency and durable build make it practical for users who want a dependable wearable without unnecessary complexity."
+    },
+    {
+        "id": 5,
+        "name": "ZenBook Air Laptop Sleeve",
+        "category": "Electronics",
+        "quantity": 300,
+        "price": 24.99,
+        "description": "A minimalist protective sleeve designed to keep laptops safe during transport. The ZenBook Air Sleeve uses shock-absorbing material, a soft interior lining, and a slim profile that fits easily in backpacks or briefcases. It is ideal for professionals, students, and remote workers who travel with their device every day."
+    },
+    {
+        "id": 6,
+        "name": "Helio 27-inch 144Hz Monitor",
+        "category": "Electronics",
+        "quantity": 40,
+        "price": 229.0,
+        "description": "A fast-refresh display built for smooth visuals, comfortable work, and responsive gaming. The Helio monitor offers a high refresh rate, accurate colors, and a spacious screen that supports multitasking. It is a strong choice for users who need a balanced display for both entertainment and productivity."
+    },
+    {
+        "id": 7,
+        "name": "Luma USB-C Dock Station",
+        "category": "Electronics",
+        "quantity": 95,
+        "price": 89.0,
+        "description": "A practical docking station that expands laptop connectivity through a single USB-C port. Luma adds HDMI output, USB ports, card reading, and power delivery support in a compact enclosure. It is designed for modern desk setups where cable reduction and easy expansion matter."
+    },
+    {
+        "id": 8,
+        "name": "Echo Mini Bluetooth Speaker",
+        "category": "Electronics",
+        "quantity": 220,
+        "price": 34.95,
+        "description": "A portable speaker built for everyday music, podcasts, and small gatherings. Echo Mini delivers clear sound in a compact body, with easy Bluetooth pairing and a battery made for on-the-go listening. Its durable design makes it suitable for home, outdoor use, and casual travel."
+    },
+    {
+        "id": 9,
+        "name": "Vertex Gaming Mouse",
+        "category": "Electronics",
+        "quantity": 140,
+        "price": 59.9,
+        "description": "A precision mouse built for fast movement, long sessions, and competitive control. Vertex includes a responsive sensor, programmable buttons, ergonomic shaping, and a durable cable or wireless option depending on configuration. It is aimed at users who value accuracy and comfort."
+    },
+    {
+        "id": 10,
+        "name": "Nimbus 2TB Portable SSD",
+        "category": "Electronics",
+        "quantity": 110,
+        "price": 139.99,
+        "description": "A high-speed portable storage drive for backups, media transfers, and project files. Nimbus offers strong read and write performance in a pocket-sized case, with broad compatibility across laptops and desktops. It is a reliable storage upgrade for creators, professionals, and students."
+    },
+    {
+        "id": 11,
+        "name": "Aurora Ceramic Dinner Set",
+        "category": "Home & Kitchen",
+        "quantity": 75,
+        "price": 64.99,
+        "description": "A complete dinnerware set designed for daily dining and special occasions. Aurora includes plates, bowls, and serving pieces with a clean finish that suits modern kitchens. It is made for households that want durable tableware with a refined presentation."
+    },
+    {
+        "id": 12,
+        "name": "Harbor Nonstick Cookware Set",
+        "category": "Home & Kitchen",
+        "quantity": 55,
+        "price": 159.0,
+        "description": "A versatile cookware collection intended for everyday cooking with easier cleanup. Harbor features nonstick surfaces, balanced handles, and pots and pans sized for family meals. It is built for users who want practical kitchen tools that reduce cooking friction."
+    },
+    {
+        "id": 13,
+        "name": "Solace Memory Foam Pillow",
+        "category": "Home & Kitchen",
+        "quantity": 180,
+        "price": 39.99,
+        "description": "A supportive pillow shaped to improve sleeping comfort and neck alignment. Solace uses memory foam that adapts to pressure while maintaining structure over time. It is suitable for people who want a more stable pillow for side or back sleeping."
+    },
+    {
+        "id": 14,
+        "name": "Breeze Air Purifier",
+        "category": "Home & Kitchen",
+        "quantity": 90,
+        "price": 179.99,
+        "description": "A room air purifier designed to improve indoor air quality in bedrooms, offices, and living spaces. Breeze uses multi-stage filtration to capture dust, common airborne particles, and odors. It is a practical choice for users who want cleaner, fresher indoor air."
+    },
+    {
+        "id": 15,
+        "name": "Mosaic Floor Lamp",
+        "category": "Home & Kitchen",
+        "quantity": 130,
+        "price": 74.5,
+        "description": "A decorative floor lamp that combines usable lighting with a clean interior style. Mosaic is designed to brighten corners, reading areas, and living rooms while adding visual warmth to the space. Its simple form fits into modern, classic, and minimal interiors."
+    },
+    {
+        "id": 16,
+        "name": "Cedar Wood Cutting Board",
+        "category": "Home & Kitchen",
+        "quantity": 210,
+        "price": 28.75,
+        "description": "A sturdy cutting board made for food preparation, serving, and kitchen durability. Cedar Wood Board offers a dependable surface that handles daily chopping while remaining attractive enough for presentation. It is designed for cooks who prefer a natural look and practical function."
+    },
+    {
+        "id": 17,
+        "name": "PureFlow Water Filter Pitcher",
+        "category": "Home & Kitchen",
+        "quantity": 160,
+        "price": 32.0,
+        "description": "A countertop filtration pitcher that improves the taste and quality of drinking water. PureFlow is easy to refill, simple to store, and convenient for daily household use. It is ideal for families and small apartments where accessible filtered water matters."
+    },
+    {
+        "id": 18,
+        "name": "Harborline Bed Sheet Set",
+        "category": "Home & Kitchen",
+        "quantity": 140,
+        "price": 49.99,
+        "description": "A soft bed sheet set designed to improve sleep comfort and refresh bedroom appearance. Harborline offers a smooth feel, standard sizing, and a clean color palette that fits many interiors. It is suitable for everyday use and guest rooms alike."
+    },
+    {
+        "id": 19,
+        "name": "KitchenEase Spice Organizer",
+        "category": "Home & Kitchen",
+        "quantity": 250,
+        "price": 21.9,
+        "description": "A compact organizer that keeps spice containers visible, accessible, and neatly arranged. KitchenEase helps reduce countertop clutter while making cooking faster and more organized. It is useful for both small kitchens and larger cooking setups."
+    },
+    {
+        "id": 20,
+        "name": "EverClean Robot Mop",
+        "category": "Home & Kitchen",
+        "quantity": 45,
+        "price": 249.99,
+        "description": "A smart cleaning device built to handle routine floor maintenance with minimal effort. EverClean uses automated navigation and wet cleaning support to simplify daily upkeep. It is intended for households that want a convenient cleaning assistant for hard floors."
+    },
+    {
+        "id": 21,
+        "name": "Vanta Classic Denim Jacket",
+        "category": "Fashion",
+        "quantity": 100,
+        "price": 89.99,
+        "description": "A timeless denim jacket designed for layering, casual wear, and year-round styling. Vanta offers a structured fit, durable stitching, and a versatile look that works across different outfits. It is a reliable wardrobe piece for users who want something durable and easy to wear."
+    },
+    {
+        "id": 22,
+        "name": "LuxeLine Tailored Blazer",
+        "category": "Fashion",
+        "quantity": 60,
+        "price": 149.0,
+        "description": "A refined blazer created for formal settings, office wear, and elevated casual looks. LuxeLine features a sharp silhouette, comfortable lining, and a polished finish that supports a professional appearance. It is suited to people who need dependable style for meetings and events."
+    },
+    {
+        "id": 23,
+        "name": "MetroFit Slim Trousers",
+        "category": "Fashion",
+        "quantity": 110,
+        "price": 69.5,
+        "description": "Slim-cut trousers made for clean lines, comfort, and everyday versatility. MetroFit works well in office environments or smart-casual outfits and is designed to hold shape through frequent use. It is a practical wardrobe essential for many occasions."
+    },
+    {
+        "id": 24,
+        "name": "CloudStep Running Shoes",
+        "category": "Fashion",
+        "quantity": 95,
+        "price": 109.99,
+        "description": "Lightweight running shoes built for training, walking, and casual wear. CloudStep emphasizes cushioning, breathable materials, and a stable ride that supports active daily movement. It is a sensible option for users who need comfort and durability in one product."
+    },
+    {
+        "id": 25,
+        "name": "Aria Cotton Hoodie",
+        "category": "Fashion",
+        "quantity": 180,
+        "price": 54.0,
+        "description": "A comfortable hoodie made from soft cotton fabric for relaxed daily use. Aria is suitable for cool evenings, travel, and casual layering, with a fit that balances warmth and mobility. It is designed for people who want simplicity and comfort."
+    },
+    {
+        "id": 26,
+        "name": "Noir Leather Belt",
+        "category": "Fashion",
+        "quantity": 220,
+        "price": 24.5,
+        "description": "A classic belt that adds structure and polish to everyday outfits. Noir Leather Belt is built for durability and straightforward styling, pairing with jeans, trousers, and business casual wear. It is a basic accessory with lasting utility."
+    },
+    {
+        "id": 27,
+        "name": "Sunbeam Summer Dress",
+        "category": "Fashion",
+        "quantity": 70,
+        "price": 79.0,
+        "description": "A light, elegant dress designed for warm weather, travel, and informal events. Sunbeam uses comfortable fabric and a flattering cut to create a versatile seasonal piece. It is made for wearers who want something easy, bright, and practical."
+    },
+    {
+        "id": 28,
+        "name": "Urban Loop Backpack",
+        "category": "Fashion",
+        "quantity": 145,
+        "price": 59.99,
+        "description": "A durable backpack for school, work, and travel. Urban Loop includes practical compartments, secure closures, and a clean exterior that suits many settings. It is designed for users who need organization, comfort, and everyday reliability."
+    },
+    {
+        "id": 29,
+        "name": "SilkTone Scarf",
+        "category": "Fashion",
+        "quantity": 190,
+        "price": 19.95,
+        "description": "A lightweight scarf that adds style without bulk. SilkTone is designed to complement simple outfits, provide a touch of refinement, and work across seasons. It is suitable for users who want a low-cost accessory with a polished look."
+    },
+    {
+        "id": 30,
+        "name": "PeakFlex Athletic Shorts",
+        "category": "Fashion",
+        "quantity": 160,
+        "price": 34.99,
+        "description": "Athletic shorts made for training, jogging, and relaxed movement. PeakFlex focuses on breathability, ease of motion, and a practical fit that supports active routines. It is a useful option for sports and casual wear."
+    },
+    {
+        "id": 31,
+        "name": "VelvetGlow Facial Cleanser",
+        "category": "Beauty & Personal Care",
+        "quantity": 230,
+        "price": 18.99,
+        "description": "A gentle facial cleanser formulated for routine skincare. VelvetGlow removes surface impurities while leaving the skin feeling clean and comfortable. It is designed for users who want a simple, everyday cleansing step in their skincare routine."
+    },
+    {
+        "id": 32,
+        "name": "Radiant Serum C",
+        "category": "Beauty & Personal Care",
+        "quantity": 140,
+        "price": 27.5,
+        "description": "A vitamin-rich serum intended to support a brighter, more even-looking complexion. Radiant Serum C is lightweight, fast absorbing, and suitable for layering under moisturizer. It is created for users who want a focused skincare product with a clean formulation style."
+    },
+    {
+        "id": 33,
+        "name": "PureMist Hydrating Toner",
+        "category": "Beauty & Personal Care",
+        "quantity": 150,
+        "price": 21.0,
+        "description": "A toner made to refresh and rebalance the skin after cleansing. PureMist is designed to feel light, improve the comfort of the skin, and support a complete skincare routine. It suits users who prefer a straightforward, hydrating step."
+    },
+    {
+        "id": 34,
+        "name": "Silken Hair Oil",
+        "category": "Beauty & Personal Care",
+        "quantity": 175,
+        "price": 16.75,
+        "description": "A nourishing hair oil formulated to smooth, soften, and reduce dryness in everyday hair care. Silken works well as part of a styling or treatment routine and is packaged for convenient use. It is ideal for users who want a practical, multi-use hair product."
+    },
+    {
+        "id": 35,
+        "name": "Bloom Luxe Perfume",
+        "category": "Beauty & Personal Care",
+        "quantity": 85,
+        "price": 64.0,
+        "description": "A fragrance with a polished profile designed for everyday elegance and special occasions. Bloom Luxe offers a balanced scent experience with lasting presence and an upscale presentation. It is intended for users looking for a signature fragrance."
+    },
+    {
+        "id": 36,
+        "name": "CalmSkin Night Cream",
+        "category": "Beauty & Personal Care",
+        "quantity": 125,
+        "price": 29.95,
+        "description": "A night cream built for overnight hydration and routine skin recovery. CalmSkin is rich without being heavy, making it suitable for use before sleep as part of a consistent skincare regimen. It is aimed at users who want a dependable nighttime moisturizer."
+    },
+    {
+        "id": 37,
+        "name": "Precision Makeup Brush Set",
+        "category": "Beauty & Personal Care",
+        "quantity": 90,
+        "price": 39.99,
+        "description": "A set of makeup brushes designed for controlled application and blending. Precision includes essential shapes for foundation, powder, eye makeup, and detail work. It is meant for users who want a practical toolkit for daily or professional makeup use."
+    },
+    {
+        "id": 38,
+        "name": "SoftTouch Body Lotion",
+        "category": "Beauty & Personal Care",
+        "quantity": 260,
+        "price": 14.99,
+        "description": "A daily body lotion made to hydrate skin and maintain comfort throughout the day. SoftTouch absorbs easily and is suitable for regular post-shower use. It is a simple household essential with broad usefulness."
+    },
+    {
+        "id": 39,
+        "name": "FreshMint Toothpaste Pack",
+        "category": "Beauty & Personal Care",
+        "quantity": 300,
+        "price": 12.5,
+        "description": "A multi-pack of toothpaste designed for regular oral hygiene. FreshMint emphasizes freshness, routine cleaning support, and good household value. It is a basic consumable product that fits everyday personal care needs."
+    },
+    {
+        "id": 40,
+        "name": "ClearLine Travel Grooming Kit",
+        "category": "Beauty & Personal Care",
+        "quantity": 110,
+        "price": 44.9,
+        "description": "A compact grooming kit for travel, business trips, and organized personal care. ClearLine gathers essential tools into a neat carry case so users can stay prepared away from home. It is made for convenience, portability, and regular use."
+    },
+    {
+        "id": 41,
+        "name": "TrailPeak Hiking Backpack",
+        "category": "Sports & Outdoor",
+        "quantity": 70,
+        "price": 94.99,
+        "description": "A rugged backpack intended for day hikes, travel, and outdoor activity. TrailPeak offers supportive straps, practical storage, and a design that can handle rougher conditions. It is suitable for users who need a dependable pack for active use."
+    },
+    {
+        "id": 42,
+        "name": "HydroSprint Water Bottle",
+        "category": "Sports & Outdoor",
+        "quantity": 260,
+        "price": 22.0,
+        "description": "A reusable bottle built for workouts, commuting, and general hydration. HydroSprint is designed to be easy to carry, easy to clean, and practical for daily routines. It is a basic but high-utility item for active users."
+    },
+    {
+        "id": 43,
+        "name": "CoreBalance Yoga Mat",
+        "category": "Sports & Outdoor",
+        "quantity": 140,
+        "price": 35.99,
+        "description": "A fitness mat made for yoga, stretching, and floor exercises. CoreBalance provides a stable surface, moderate cushioning, and a practical roll-up format. It is suited for home fitness and studio practice."
+    },
+    {
+        "id": 44,
+        "name": "Summit Camping Tent",
+        "category": "Sports & Outdoor",
+        "quantity": 35,
+        "price": 249.0,
+        "description": "A portable tent designed for camping trips, weekend outdoor stays, and travel comfort. Summit is made to balance space, protection, and quick setup for general outdoor use. It is aimed at people who need a reliable shelter for recreational trips."
+    },
+    {
+        "id": 45,
+        "name": "StrikePro Soccer Ball",
+        "category": "Sports & Outdoor",
+        "quantity": 180,
+        "price": 26.99,
+        "description": "A durable soccer ball made for training sessions, school games, and recreational play. StrikePro is designed to maintain shape and perform well across repeated use. It is a straightforward sports item with broad appeal."
+    },
+    {
+        "id": 46,
+        "name": "IronGrip Dumbbell Pair",
+        "category": "Sports & Outdoor",
+        "quantity": 50,
+        "price": 74.99,
+        "description": "A pair of dumbbells intended for home workouts, strength routines, and progressive training. IronGrip supports simple fitness programs with a compact footprint and durable construction. It is suitable for users building a home gym."
+    },
+    {
+        "id": 47,
+        "name": "RiverRun Skipping Rope",
+        "category": "Sports & Outdoor",
+        "quantity": 240,
+        "price": 18.5,
+        "description": "A lightweight jump rope for cardio, coordination, and warm-up routines. RiverRun is easy to pack and practical for home or outdoor workouts. It is a low-cost fitness tool with high training value."
+    },
+    {
+        "id": 48,
+        "name": "PeakTrack Fitness Tracker Band",
+        "category": "Sports & Outdoor",
+        "quantity": 130,
+        "price": 59.99,
+        "description": "A fitness band focused on activity monitoring, basic health metrics, and workout convenience. PeakTrack is compact, easy to wear, and suitable for daily activity awareness. It is aimed at users who want simple fitness tracking without a large device."
+    },
+    {
+        "id": 49,
+        "name": "EdgeBlade Skateboard Deck",
+        "category": "Sports & Outdoor",
+        "quantity": 40,
+        "price": 89.0,
+        "description": "A skateboard deck built for street riding, practice, and personal customization. EdgeBlade offers a durable platform for riders who want a solid base for setup and performance. It is intended for users who value control and style in skating."
+    },
+    {
+        "id": 50,
+        "name": "SunShield Picnic Blanket",
+        "category": "Sports & Outdoor",
+        "quantity": 210,
+        "price": 27.75,
+        "description": "A foldable blanket designed for parks, beaches, and outdoor gatherings. SunShield is lightweight, easy to carry, and practical for casual recreation. It is a useful item for families and social outings."
+    },
+    {
+        "id": 51,
+        "name": "Mastering Python Essentials",
+        "category": "Books & Learning",
+        "quantity": 85,
+        "price": 31.99,
+        "description": "A practical learning book that covers core Python concepts, syntax, and problem-solving approaches. Mastering Python Essentials is designed for learners who want a structured path from fundamentals to everyday development tasks. It emphasizes clarity, examples, and applied understanding."
+    },
+    {
+        "id": 52,
+        "name": "Data Science Workbook",
+        "category": "Books & Learning",
+        "quantity": 75,
+        "price": 28.5,
+        "description": "A hands-on workbook focused on data analysis exercises, interpretation, and methodical practice. Data Science Workbook helps learners move beyond theory and build repeatable analytical skills. It is suitable for students, analysts, and self-learners."
+    },
+    {
+        "id": 53,
+        "name": "Machine Learning Handbook",
+        "category": "Books & Learning",
+        "quantity": 60,
+        "price": 42.0,
+        "description": "A reference book that explains machine learning concepts, workflows, and practical model development. Machine Learning Handbook is intended for readers who want a structured overview of algorithms, evaluation, and implementation concerns. It works as both a study guide and a desktop reference."
+    },
+    {
+        "id": 54,
+        "name": "Deep Work Planner",
+        "category": "Books & Learning",
+        "quantity": 200,
+        "price": 19.99,
+        "description": "A productivity planner designed to help users structure study blocks, prioritize tasks, and track daily focus. Deep Work Planner is created for people who want better routines and more deliberate output. It combines organization with minimal distraction."
+    },
+    {
+        "id": 55,
+        "name": "Language Master Flashcards",
+        "category": "Books & Learning",
+        "quantity": 240,
+        "price": 14.25,
+        "description": "A flashcard set built to support vocabulary learning, revision, and repetition-based memory practice. Language Master is simple to use and suitable for multiple study contexts. It is designed for students and language learners who value quick review materials."
+    },
+    {
+        "id": 56,
+        "name": "History Atlas Deluxe",
+        "category": "Books & Learning",
+        "quantity": 45,
+        "price": 54.99,
+        "description": "A detailed atlas that presents historical maps, timelines, and context for learners interested in world history. History Atlas Deluxe is designed to be informative, visually useful, and durable as a reference. It is a strong addition to a study library."
+    },
+    {
+        "id": 57,
+        "name": "Creative Writing Journal",
+        "category": "Books & Learning",
+        "quantity": 160,
+        "price": 16.99,
+        "description": "A blank journal intended for writing practice, notes, ideas, and reflective work. Creative Writing Journal gives users space to develop stories, drafts, and daily entries in a simple format. It is suitable for students, writers, and hobbyists."
+    },
+    {
+        "id": 58,
+        "name": "Exam Prep Study Guide",
+        "category": "Books & Learning",
+        "quantity": 110,
+        "price": 22.99,
+        "description": "A focused study guide built to help learners prepare for exams with summaries, review points, and practice structure. Exam Prep Study Guide is designed for efficient revision and last-minute confidence building. It suits students who need organized content."
+    },
+    {
+        "id": 59,
+        "name": "Modern Economics Primer",
+        "category": "Books & Learning",
+        "quantity": 55,
+        "price": 36.75,
+        "description": "An accessible introduction to key economic concepts, markets, and decision-making frameworks. Modern Economics Primer is written for readers who want a practical understanding of how economic systems function. It is appropriate for students and curious professionals."
+    },
+    {
+        "id": 60,
+        "name": "Children’s Picture Encyclopedia",
+        "category": "Books & Learning",
+        "quantity": 95,
+        "price": 33.0,
+        "description": "An educational encyclopedia designed to introduce children to a broad range of subjects through images and simple explanations. Children’s Picture Encyclopedia is made to be engaging, age-appropriate, and easy to browse. It is ideal for home learning and school support."
+    },
+    {
+        "id": 61,
+        "name": "Golden Harvest Olive Oil",
+        "category": "Grocery",
+        "quantity": 300,
+        "price": 11.99,
+        "description": "A kitchen staple olive oil intended for cooking, dressing, and everyday food preparation. Golden Harvest is positioned as a versatile pantry item with broad household use. It is useful for families, home cooks, and meal prep routines."
+    },
+    {
+        "id": 62,
+        "name": "Heritage Basmati Rice",
+        "category": "Grocery",
+        "quantity": 500,
+        "price": 18.99,
+        "description": "A pantry rice product suitable for daily meals, batch cooking, and recipe flexibility. Heritage Basmati is a dependable staple for households that need a base ingredient with broad culinary use. It is practical, shelf-friendly, and easy to store."
+    },
+    {
+        "id": 63,
+        "name": "Forest Blend Coffee Beans",
+        "category": "Grocery",
+        "quantity": 220,
+        "price": 24.99,
+        "description": "A coffee bean product made for brewing at home or in office coffee setups. Forest Blend is designed for users who want a richer daily coffee routine with a balanced taste profile. It is suitable for grinders, drip brewing, and espresso-oriented use."
+    },
+    {
+        "id": 64,
+        "name": "Morning Crisp Granola",
+        "category": "Grocery",
+        "quantity": 180,
+        "price": 9.99,
+        "description": "A breakfast granola product for quick meals, snacking, or yogurt toppings. Morning Crisp is intended to be convenient, shelf-stable, and useful for busy mornings. It is a common pantry item with a strong everyday use case."
+    },
+    {
+        "id": 65,
+        "name": "PureSpring Mineral Water Pack",
+        "category": "Grocery",
+        "quantity": 400,
+        "price": 7.49,
+        "description": "A bottled water pack designed for convenience, household stocking, and emergency supply. PureSpring is a simple consumable item for routine hydration needs. It is suited for families, offices, and travel preparations."
+    },
+    {
+        "id": 66,
+        "name": "Cocoa Valley Dark Chocolate",
+        "category": "Grocery",
+        "quantity": 260,
+        "price": 6.5,
+        "description": "A dark chocolate product made for snacking, gifting, and dessert use. Cocoa Valley aims to provide a dependable treat with a richer flavor profile than standard candy products. It is suitable for households and retail gifting assortments."
+    },
+    {
+        "id": 67,
+        "name": "Sunrise Herbal Tea Box",
+        "category": "Grocery",
+        "quantity": 190,
+        "price": 8.75,
+        "description": "A tea box built for calm daily drinking, evening routines, or warm beverage variety. Sunrise Herbal Tea offers a mild and accessible option for users who prefer a non-coffee hot drink. It is a useful pantry item for home or office."
+    },
+    {
+        "id": 68,
+        "name": "Farmstead Tomato Sauce",
+        "category": "Grocery",
+        "quantity": 350,
+        "price": 4.99,
+        "description": "A tomato sauce product for pasta, stews, and everyday cooking. Farmstead is designed to be a reliable, affordable pantry base with broad recipe utility. It is suitable for quick meals and family cooking."
+    },
+    {
+        "id": 69,
+        "name": "NutriCrunch Peanut Butter",
+        "category": "Grocery",
+        "quantity": 280,
+        "price": 8.99,
+        "description": "A spread product intended for toast, sandwiches, baking, and snacks. NutriCrunch is a practical household staple with versatile food use. It is made for users who want a simple, filling, and long-lasting pantry item."
+    },
+    {
+        "id": 70,
+        "name": "Harvest Spice Mixed Herbs",
+        "category": "Grocery",
+        "quantity": 320,
+        "price": 5.49,
+        "description": "A seasoning blend created to improve everyday cooking with minimal effort. Harvest Spice is a convenient flavor booster for vegetables, meats, sauces, and soups. It belongs in a basic, well-stocked kitchen."
+    },
+    {
+        "id": 71,
+        "name": "PawJoy Dog Food Large Bag",
+        "category": "Pets",
+        "quantity": 90,
+        "price": 44.99,
+        "description": "A dry dog food bag intended for routine feeding and household pet care. PawJoy is designed as a dependable staple for pet owners who want a practical food supply. It is suited for daily use and convenient storage."
+    },
+    {
+        "id": 72,
+        "name": "WhiskerNest Cat Tree",
+        "category": "Pets",
+        "quantity": 35,
+        "price": 129.99,
+        "description": "A multi-level cat tree built to support climbing, resting, and indoor enrichment. WhiskerNest is designed to give cats a dedicated space for activity and comfort. It is a useful home item for cat owners seeking to improve pet environment."
+    },
+    {
+        "id": 73,
+        "name": "FurCare Grooming Brush",
+        "category": "Pets",
+        "quantity": 150,
+        "price": 17.99,
+        "description": "A grooming brush for regular coat maintenance and pet care routines. FurCare helps remove loose fur and supports cleaner, more comfortable grooming sessions. It is a practical tool for dogs and cats."
+    },
+    {
+        "id": 74,
+        "name": "AquaPet Aquarium Filter",
+        "category": "Pets",
+        "quantity": 60,
+        "price": 54.99,
+        "description": "An aquarium filter designed to help maintain cleaner water conditions for fish tanks. AquaPet is aimed at aquarium owners who need a dependable filtration component for daily maintenance. It supports basic tank care and habitat stability."
+    },
+    {
+        "id": 75,
+        "name": "ChewSafe Pet Toy Set",
+        "category": "Pets",
+        "quantity": 240,
+        "price": 21.5,
+        "description": "A toy set created for pet engagement, playtime, and safe chewing behavior. ChewSafe is intended to keep pets active and entertained while offering a simple product bundle. It is suitable for households with active dogs or playful cats."
+    },
+    {
+        "id": 76,
+        "name": "PetNest Travel Carrier",
+        "category": "Pets",
+        "quantity": 45,
+        "price": 69.0,
+        "description": "A travel carrier made for transporting pets to appointments, trips, or relocations. PetNest emphasizes secure handling, portability, and pet comfort during travel. It is a strong choice for owners who move pets frequently."
+    },
+    {
+        "id": 77,
+        "name": "BirdBrite Seed Mix",
+        "category": "Pets",
+        "quantity": 210,
+        "price": 12.99,
+        "description": "A bird feed mix for routine feeding of pet birds. BirdBrite is designed to be a straightforward dietary supply with convenience and stable storage in mind. It is suitable for bird owners who want a dependable feed option."
+    },
+    {
+        "id": 78,
+        "name": "HamsterHome Habitat Kit",
+        "category": "Pets",
+        "quantity": 55,
+        "price": 84.5,
+        "description": "A habitat kit assembled for small pet housing and basic care. HamsterHome provides an organized setup for hamsters and similar small animals, making daily maintenance easier. It is meant for first-time and experienced owners alike."
+    },
+    {
+        "id": 79,
+        "name": "ReefStone Decorative Tank Set",
+        "category": "Pets",
+        "quantity": 80,
+        "price": 29.99,
+        "description": "A decorative aquarium accessory set designed to improve the appearance of fish tanks. ReefStone adds visual structure without replacing core care equipment. It is useful for hobbyists who want a more complete tank environment."
+    },
+    {
+        "id": 80,
+        "name": "LitterLock Cat Litter Box",
+        "category": "Pets",
+        "quantity": 100,
+        "price": 49.99,
+        "description": "A litter box designed to make cat maintenance cleaner and more manageable. LitterLock focuses on practical structure and everyday use in the home. It is an essential product for cat households."
+    },
+    {
+        "id": 81,
+        "name": "PaperFlow Notebook Pack",
+        "category": "Office",
+        "quantity": 300,
+        "price": 13.99,
+        "description": "A notebook pack intended for note-taking, planning, and general office or school use. PaperFlow is a standard stationery product that supports everyday writing tasks. It is practical, low-cost, and easy to stock in bulk."
+    },
+    {
+        "id": 82,
+        "name": "DeskPro Ergonomic Chair",
+        "category": "Office",
+        "quantity": 30,
+        "price": 189.99,
+        "description": "An office chair designed to improve seating comfort during long work sessions. DeskPro focuses on posture support, adjustability, and stable construction. It is suitable for home offices and workplace setups."
+    },
+    {
+        "id": 83,
+        "name": "ClipMate Binder Set",
+        "category": "Office",
+        "quantity": 220,
+        "price": 11.5,
+        "description": "A binder set made for document organization, filing, and everyday office storage. ClipMate helps keep paper materials separated and accessible. It is a simple office utility with broad usefulness."
+    },
+    {
+        "id": 84,
+        "name": "SwiftPrint Label Maker",
+        "category": "Office",
+        "quantity": 65,
+        "price": 74.99,
+        "description": "A label maker designed for organizing shelves, files, storage boxes, and business materials. SwiftPrint supports clean labeling that makes spaces easier to manage. It is ideal for home organization and small offices."
+    },
+    {
+        "id": 85,
+        "name": "ClearView Desk Organizer",
+        "category": "Office",
+        "quantity": 150,
+        "price": 26.99,
+        "description": "A desktop organizer for pens, paper, tools, and small accessories. ClearView is designed to reduce clutter and improve workflow by keeping essentials within reach. It is a practical product for study and office desks."
+    },
+    {
+        "id": 86,
+        "name": "SkyNote Planner 2026",
+        "category": "Office",
+        "quantity": 175,
+        "price": 18.49,
+        "description": "A dated planner created for scheduling tasks, meetings, and personal goals across the year. SkyNote supports planning habits with a simple and organized format. It is useful for students, professionals, and project managers."
+    },
+    {
+        "id": 87,
+        "name": "AlphaScan Document Scanner",
+        "category": "Office",
+        "quantity": 40,
+        "price": 149.0,
+        "description": "A document scanner intended for digitizing papers quickly and efficiently. AlphaScan helps convert physical paperwork into digital files for storage, sharing, and archiving. It is a valuable tool for office productivity."
+    },
+    {
+        "id": 88,
+        "name": "InkStream Printer Cartridge",
+        "category": "Office",
+        "quantity": 190,
+        "price": 39.99,
+        "description": "A printer cartridge designed to support routine printing needs with consistent output. InkStream is a consumable office item that helps keep printers operational. It is appropriate for businesses and home offices with regular print demand."
+    },
+    {
+        "id": 89,
+        "name": "TaskGrid Whiteboard",
+        "category": "Office",
+        "quantity": 85,
+        "price": 59.95,
+        "description": "A whiteboard for planning, brainstorming, and presentation use. TaskGrid is made to support visual organization in offices, classrooms, and home workspaces. It is useful for teams and individuals who prefer writing tasks in view."
+    },
+    {
+        "id": 90,
+        "name": "QuietKey Wireless Mouse",
+        "category": "Office",
+        "quantity": 180,
+        "price": 24.99,
+        "description": "A quiet-click mouse intended for work environments where noise reduction matters. QuietKey offers practical navigation and comfortable daily use. It is suited for offices, study spaces, and shared environments."
+    },
+    {
+        "id": 91,
+        "name": "ChefCraft Knife Set",
+        "category": "Home & Kitchen",
+        "quantity": 58,
+        "price": 119.99,
+        "description": "A knife set designed for efficient food preparation and dependable kitchen performance. ChefCraft includes essential blades for slicing, chopping, and precision work. It is built for cooks who want a more complete prep setup."
+    },
+    {
+        "id": 92,
+        "name": "GlowSense Desk Light",
+        "category": "Electronics",
+        "quantity": 125,
+        "price": 41.99,
+        "description": "A desk lamp designed for workstations, reading corners, and study areas. GlowSense provides focused light in a compact form and is suited for users who need comfortable illumination without taking much space."
+    },
+    {
+        "id": 93,
+        "name": "UrbanShield Rain Jacket",
+        "category": "Fashion",
+        "quantity": 77,
+        "price": 99.0,
+        "description": "A weather-ready jacket made to protect against light rain and breezy conditions. UrbanShield combines practical outerwear with a clean city style. It is useful for commuting, travel, and seasonal changes."
+    },
+    {
+        "id": 94,
+        "name": "FitForm Resistance Bands",
+        "category": "Sports & Outdoor",
+        "quantity": 260,
+        "price": 15.99,
+        "description": "A band set created for strength training, mobility work, and rehabilitation-style exercise. FitForm is compact, affordable, and easy to use at home or on the move. It is a versatile fitness product for a wide audience."
+    },
+    {
+        "id": 95,
+        "name": "MellowSleep Weighted Blanket",
+        "category": "Home & Kitchen",
+        "quantity": 42,
+        "price": 89.95,
+        "description": "A weighted blanket intended to provide a heavier, more enveloping sleep feel. MellowSleep is designed for comfort and relaxation in bedrooms and lounging spaces. It is suitable for users who prefer a more grounded blanket experience."
+    },
+    {
+        "id": 96,
+        "name": "PocketCharge Power Bank",
+        "category": "Electronics",
+        "quantity": 205,
+        "price": 49.99,
+        "description": "A portable battery pack for phones, tablets, and other mobile devices. PocketCharge is made to support charging on the go, especially during travel or long days away from outlets. It is a practical everyday power accessory."
+    },
+    {
+        "id": 97,
+        "name": "GardenBloom Tool Kit",
+        "category": "Home & Kitchen",
+        "quantity": 68,
+        "price": 64.5,
+        "description": "A gardening toolkit with basic hand tools for planting, trimming, and general garden maintenance. GardenBloom is meant for home gardeners who want a practical starter set or replacement kit. It is suitable for balcony, yard, and container gardening."
+    },
+    {
+        "id": 98,
+        "name": "CanvasPro Art Supply Set",
+        "category": "Books & Learning",
+        "quantity": 52,
+        "price": 73.25,
+        "description": "An art supply set created for sketching, painting, and creative practice. CanvasPro includes core materials that support learning and hobby work. It is designed for beginners and intermediate users who want a broad starter kit."
+    },
+    {
+        "id": 99,
+        "name": "DailyBrew French Press",
+        "category": "Home & Kitchen",
+        "quantity": 132,
+        "price": 29.99,
+        "description": "A coffee brewer made for simple, manual brewing at home or in the office. DailyBrew is straightforward to use and gives users control over a classic brewing method. It is a dependable tool for coffee drinkers who prefer manual preparation."
+    },
+    {
+        "id": 100,
+        "name": "SmartPet Feeding Bowl",
+        "category": "Pets",
+        "quantity": 115,
+        "price": 31.49,
+        "description": "A pet feeding bowl designed for everyday mealtime convenience and cleaner feeding areas. SmartPet is practical, easy to maintain, and suitable for routine household use. It is a simple but valuable item for pet owners."
+    }
+]
