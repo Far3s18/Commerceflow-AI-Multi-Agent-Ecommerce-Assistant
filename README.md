@@ -35,7 +35,7 @@
 
 ## Overview
 
-EcomAgent is a locally-hosted AI customer service system built for e-commerce. It uses a **LangGraph state machine** to route user queries between two RAG pipelines — a product catalog search and an FAQ knowledge base — then generates accurate, context-rich responses using a local LLM via Ollama.
+Commerceflow AI is a locally-hosted AI customer service system built for e-commerce. It uses a **LangGraph state machine** to route user queries between two RAG pipelines — a product catalog search and an FAQ knowledge base — then generates accurate, context-rich responses using a local LLM via Ollama.
 
 **Key guarantees:**
 - Prices and product details are always sourced from your database — never generated from model weights
